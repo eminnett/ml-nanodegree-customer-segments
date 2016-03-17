@@ -1,6 +1,13 @@
 # Creating Customer Segments
+## Unsupervised Learning Project
+#### Machine Learning Engineer Nanodegree (Udacity)
+Project submission by Edward Minnett (ed@methodic.io).
 
-Unsupervised Learning Project
+XXXX Xth 2016. (Revision X) (Not yet sybmitted)
+
+-------
+
+## TODO: Revise this document to be more descriptive of the project.
 
 ## Template code
 
