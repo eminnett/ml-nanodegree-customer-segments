@@ -3,7 +3,7 @@
 #### Machine Learning Engineer Nanodegree (Udacity)
 Project submission by Edward Minnett (ed@methodic.io).
 
-July 23rd 2016. (Revision 1)
+July 24th 2016. (Revision 2)
 
 -------
 
